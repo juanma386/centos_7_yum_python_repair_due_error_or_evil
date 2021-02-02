@@ -3,3 +3,5 @@ bash: **/bin/yum: /usr/bin/python: bad interpreter**: No such file or directory 
 #**Root User**
 
 #sh solve.sh
+
+coffe donation via paypal to xomie_01@hotmail.com
